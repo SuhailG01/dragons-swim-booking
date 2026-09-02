@@ -8,8 +8,12 @@ The application allows parents and swimmers to browse available lessons, book mu
 
 ---
 
+## 📸 App Preview
+
+<h2 align="center">📸 App Preview</h2>
+
 <p align="center">
-  <img src="docs/dragons-app-preview.png" alt="Dragons Swimming Club App Preview" width="100%">
+  <img src="./dragons-app-preview.png" alt="Dragons Swimming Club App" width="900">
 </p>
 
 ---
