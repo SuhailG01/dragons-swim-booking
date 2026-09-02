@@ -8,8 +8,6 @@ The application allows parents and swimmers to browse available lessons, book mu
 
 ---
 
-## 📸 App Preview
-
 <h2 align="center">📸 App Preview</h2>
 
 <p align="center">
